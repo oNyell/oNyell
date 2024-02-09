@@ -1,4 +1,4 @@
-### Olá, meu nome é Daniel e tenho 15 anos. Programo já tem mais de 1 ano em Java. Gosto bastante de aprender novas coisas, e estou sempre sujeito a novos desafios.
+### Olá, meu nome é Daniel e tenho 16 anos. Programo já tem mais de 1 ano e meio em Java. Gosto bastante de aprender novas coisas, e estou sempre sujeito a novos desafios.
 <div style="display: inline_block">
   <a href="https://github.com/oNyell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oNyell&show_icons=true&theme=highcontrast&count_private=true"/>
