@@ -5,7 +5,7 @@ I’m 17, learning Minecraft development with Kotlin and Java. My goal is to be 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=oNyel&show_icons=true&theme=tokyonight" alt="oNyell GitHub stats" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api?username=oNyell&show_icons=true&theme=tokyonight" alt="oNyell GitHub stats" height="200" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oNyell&theme=tokyonight" alt="Top Langs" height="200" />
