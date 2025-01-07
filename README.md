@@ -1,20 +1,24 @@
-### Olá, meu nome é Daniel e tenho 16 anos. Programo já tem mais de 1 ano e meio em Java. Gosto bastante de aprender novas coisas, e estou sempre sujeito a novos desafios.
-<div style="display: inline_block">
-  <a href="https://github.com/oNyell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oNyell&show_icons=true&theme=highcontrast&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oNyell&layout=compact&theme=highcontrast"/>
-</div>
-<br/>
+### 👨‍🎓 Hello, I'm Daniel ;)
+I’m 17, learning Minecraft development with Kotlin and Java. My goal is to be a Full Stack Developer, working on backend for complete solutions.
 
-### TECHNOLOGYS
+### 📊 My Stats in GitHub
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=oNyel&show_icons=true&theme=tokyonight" alt="oNyell GitHub stats" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oNyell&theme=tokyonight" alt="Top Langs" height="200" />
+    </td>
+  </tr>
+</table>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
-  <img align="center" alt="Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+### 👨‍💻 Languages 
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| --- | --- | --- |
+
+
+### ⚙ Databases
+| ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| --- | --- | --- | --- |
+
