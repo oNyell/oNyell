@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oNyell&show_icons=true&theme=tokyonight" alt="oNyell GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oNyell&theme=tokyonight" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/oNyell/oNyell/refs/heads/main/assets/github-user-contribution.svg" alt="GitHub contributions graph" />
 </div>
 
 ## 🚀 Sobre Mim
@@ -27,10 +27,10 @@ Tenho 17 anos e estou focado em desenvolvimento Minecraft usando Kotlin e Java. 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
-## 📊 Estatísticas do GitHub
-- 📈 Contribuições diárias
-- 🎯 Projetos em desenvolvimento
-- 🌱 Aprendendo constantemente
+## 📊 Linguagens mais usadas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oNyell&theme=tokyonight" alt="Top Langs" />
+</div>
 
 ## 📫 Como me encontrar
 - GitHub: [@oNyell](https://github.com/oNyell)
